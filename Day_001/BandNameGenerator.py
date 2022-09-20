@@ -1,5 +1,5 @@
 # This is a band name generator
-#testing
+
 print("Welcome to Band Name Generator!") 
 
 place = input("What is the name of the city you grew up in?\n")
