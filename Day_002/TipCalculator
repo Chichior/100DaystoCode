@@ -1,3 +1,4 @@
+# This is a tip calculator
 # If the bill was $150.00, split between 5 people, with 15% tip.
 # Each person should pay (150.00 / 5) * 1.15 = 34.5
 # Round the result to 2 decimal places = 34.50
