@@ -1,4 +1,7 @@
+#Play rock, paper, scissors with the computer.
 import random
+
+from symbol import dotted_as_names
 
 rock = '''
     _______
